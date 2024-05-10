@@ -6,4 +6,6 @@ Each folder is named after the respective algorithm and contains a file with a p
 2. Greedy is a greedy algorithm that at each time step optimizes the position of one path keeping all the others fixed
 3. simulated annealing is a simulated annealing based approach to ITAP. Similarly to greedy it updates one path at a time, but the update is stochastic.
 4. saw sampler is an algorithm of independent interest that samples self avoiding walks with fixed endpoints on arbitrary graphs. It is also a component of the simulated annealing, since it is used to generate the stochastic paths.
+
+The code of the conditional belief propagation algorithm is not reported. To obtain it contact its authors.
     
